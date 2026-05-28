@@ -1,36 +1,23 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
 
 # AIM:
-To develop an Online Examination Registration System that automates and manages the process of student exam registration efficiently.
-
+To implement the given STUDENT ONLINE EXAM REGISTRATION SYSTEM UML diagram
 # SRS (Procedure):
-To create an Online Examination Registration System software that will meet the needs of students and administrators by simplifying the process of exam registration, payment, and confirmation. The system will help students with creating accounts, selecting exams, submitting registration forms, making secure payments, and downloading hall tickets, while allowing administrators to manage exam schedules, monitor registrations, and update database records efficiently.
+Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view. The applications are then processed based on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
+# DIAGRAMS:
+<img width="1187" height="767" alt="Screenshot 2026-05-25 193349" src="https://github.com/user-attachments/assets/e7d821de-35ac-4d46-b54c-16690420cc94" />
 
-# DIAGRAMS :
-## USE CASE DIAGRAM :
-<img width="982" height="827" alt="Usecase6p" src="https://github.com/user-attachments/assets/08efd775-fbb8-4a3d-98ff-a7a2d06fc630" />
+<img width="1093" height="715" alt="Screenshot 2026-05-25 194830" src="https://github.com/user-attachments/assets/17841c7d-66ae-4cbc-aff0-e16f4bf1c5b6" />
 
+<img width="830" height="831" alt="Screenshot 2026-05-25 201252" src="https://github.com/user-attachments/assets/25c4507d-8b37-4154-892b-102b5f952f61" />
 
-## CLASS DIAGRAM :
-<img width="1227" height="778" alt="Class6p" src="https://github.com/user-attachments/assets/4769ef60-5605-4c79-b298-5996191a75da" />
+<img width="849" height="875" alt="Screenshot 2026-05-25 204103" src="https://github.com/user-attachments/assets/6616a999-387f-4091-bb8c-23bacc5c7c9b" />
 
+<img width="1148" height="546" alt="Screenshot 2026-05-25 204359" src="https://github.com/user-attachments/assets/7899806c-1882-4a33-824a-e34921ea9e02" />
 
-## SEQUENCE DIAGRAM :
-<img width="1071" height="736" alt="Sequence6p" src="https://github.com/user-attachments/assets/1419d008-a86c-46b7-8738-8ee500ab1937" />
+<img width="1230" height="783" alt="Screenshot 2026-05-25 210157" src="https://github.com/user-attachments/assets/baa5541d-babc-4d7c-a606-0dbb1d55ce5d" />
 
-
-## PACKAGE DIAGRAM :
-<img width="1115" height="702" alt="Package6p" src="https://github.com/user-attachments/assets/95adcea9-c472-4220-863c-fd7a3e4220f6" />
-
-
-## ACTIVITY DIAGRAM :
-<img width="720" height="847" alt="Activity6p" src="https://github.com/user-attachments/assets/735f96fc-1000-464d-8132-65a24bf70c9c" />
-
-
-
-## COMMUNICATOIN DIAGRAM :
-<img width="1211" height="747" alt="Communication6p" src="https://github.com/user-attachments/assets/b0498a33-c604-4300-8f25-66ffa7bd5390" />
 
 
 # RESULT:
-The Online Examination Registration System successfully streamlines and automates the exam registration process for students and administrators.
+Thus the given UML diagram is executed successfully.
